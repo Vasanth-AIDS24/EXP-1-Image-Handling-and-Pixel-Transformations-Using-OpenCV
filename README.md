@@ -325,69 +325,69 @@ plt.axis("off")
 
 #1. Original image displayed using OpenCV and Matplotlib.
 
-https://github.com/Vasanth-AIDS24/EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV/blob/main/1.png
+![alt_text](https://github.com/Vasanth-AIDS24/EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV/blob/main/1.png)
 
 
 
 #2. Image with a line drawn from the top-left to the bottom-right.
 
-
+![alt_text](https://github.com/Vasanth-AIDS24/EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV/blob/main/image(1)/Screenshot%202026-10-26%20154805.png)
 
 
 #3. Image with a circle .
 
-
+![alt_text](https://github.com/Vasanth-AIDS24/EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV/blob/main/image(1)/Screenshot%202026-10-26%20160028.png)
 
 
 #4. Image with a rectangle around its boundary.
 
-
+![alt_text](https://github.com/Vasanth-AIDS24/EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV/blob/main/image(1)/Screenshot%202026-10-26%20160342.png)
 
 
 #5. Image with the text "OpenCV Drawing".
-
+![alt_text](https://github.com/Vasanth-AIDS24/EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV/blob/main/image(1)/Screenshot%202026-10-26%20160406.png)
 
 
 
 #6. HSV, grayscale, and YCrCb color space conversions.
 
 #HSV conversion
-
+![alt_text](https://github.com/Vasanth-AIDS24/EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV/blob/main/image(1)/Screenshot%202026-10-26%20160436.png)
 
 #grayscale conversion
-
+![alt_text](https://github.com/Vasanth-AIDS24/EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV/blob/main/image(1)/Screenshot%202026-10-26%20160500.png)
 
 #YCrCb conversion
-
+![alt_text](https://github.com/Vasanth-AIDS24/EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV/blob/main/image(1)/Screenshot%202026-10-26%20160516.png)
 
 
 #7. Image converted from HSV back to RGB.
-
+![alt_text](https://github.com/Vasanth-AIDS24/EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV/blob/main/image(1)/Screenshot%202026-10-26%20160550.png)
 
 
 
 #8. Pixel value displayed and a white region added to the image.
-
+![alt_text](https://github.com/Vasanth-AIDS24/EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV/blob/main/image(1)/Screenshot%202026-10-26%20160609.png)
 
 
 
 #9. Image resized to half its original dimensions.
-
+![alt_text](https://github.com/Vasanth-AIDS24/EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV/blob/main/image(1)/Screenshot%202026-10-26%20160627.png)
 
 
 
 #10. Cropped region of interest displayed.
-
+![alt_text](https://github.com/Vasanth-AIDS24/EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV/blob/main/image(1)/Screenshot%202026-10-26%20160646.png)
 
 
 
 #11. Horizontally flipped image displayed.
-
+![alt_text](https://github.com/Vasanth-AIDS24/EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV/blob/main/image(1)/Screenshot%202026-10-26%20160704.png)
 
 
 
 #12. Vertically flipped image displayed.
-
+![alt_text](https://github.com/Vasanth-AIDS24/EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV/blob/main/image(1)/Screenshot%202026-10-26%20160720.png)
 
 
 
