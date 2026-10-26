@@ -325,7 +325,6 @@ plt.axis("off")
 
 #1. Original image displayed using OpenCV and Matplotlib.
 
-"C:\Users\muthu\Downloads\1.png"
 
 
 
