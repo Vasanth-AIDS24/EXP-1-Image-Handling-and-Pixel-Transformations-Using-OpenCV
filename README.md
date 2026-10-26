@@ -325,6 +325,7 @@ plt.axis("off")
 
 #1. Original image displayed using OpenCV and Matplotlib.
 
+https://github.com/Vasanth-AIDS24/EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV/blob/main/1.png
 
 
 
