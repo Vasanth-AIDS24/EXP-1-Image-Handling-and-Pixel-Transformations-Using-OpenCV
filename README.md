@@ -325,83 +325,70 @@ plt.axis("off")
 
 #1. Original image displayed using OpenCV and Matplotlib.
 
-
+"C:\Users\muthu\Downloads\1.png"
 
 
 
 #2. Image with a line drawn from the top-left to the bottom-right.
 
 
-<img width="382" height="506" alt="image" src="https://github.com/user-attachments/assets/1095c5b8-75c9-4ed2-96f4-ff192dea6eef" />
 
 
 #3. Image with a circle .
 
 
-<img width="383" height="512" alt="image" src="https://github.com/user-attachments/assets/14990857-bfcd-41b3-8868-a82cc0100ed4" />
 
 
 #4. Image with a rectangle around its boundary.
 
 
-<img width="382" height="511" alt="image" src="https://github.com/user-attachments/assets/33bf2256-cff4-4b5e-8196-a6c393fb883e" />
 
 
 #5. Image with the text "OpenCV Drawing".
 
 
-<img width="387" height="505" alt="image" src="https://github.com/user-attachments/assets/112a35e9-4d73-485b-a6e3-16129843f76f" />
 
 
 #6. HSV, grayscale, and YCrCb color space conversions.
 
 #HSV conversion
 
-<img width="380" height="507" alt="image" src="https://github.com/user-attachments/assets/c624a639-dcad-4e4c-aee1-e30d07b0b92c" />
 
 #grayscale conversion
 
-<img width="368" height="501" alt="image" src="https://github.com/user-attachments/assets/8f15834c-109b-4e81-a176-f36c83aa8437" />
 
 #YCrCb conversion
 
-<img width="380" height="506" alt="image" src="https://github.com/user-attachments/assets/df89b3f0-2522-4a4a-b4f0-33bb59e17480" />
 
 
 #7. Image converted from HSV back to RGB.
 
 
-<img width="372" height="500" alt="image" src="https://github.com/user-attachments/assets/64622476-d739-4570-b93b-10fd9a807165" />
 
 
 #8. Pixel value displayed and a white region added to the image.
 
 
-<img width="385" height="510" alt="image" src="https://github.com/user-attachments/assets/97071e67-df5d-440e-bbf2-ead66c54f4ba" />
 
 
 #9. Image resized to half its original dimensions.
 
 
-<img width="597" height="507" alt="image" src="https://github.com/user-attachments/assets/0cd1c814-a87d-4426-8774-a118b94fde26" />
 
 
 #10. Cropped region of interest displayed.
 
 
-<img width="478" height="511" alt="image" src="https://github.com/user-attachments/assets/2ef5ca4b-fc55-4e90-9d05-13fbe74f70ae" />
 
 
 #11. Horizontally flipped image displayed.
 
 
-<img width="387" height="512" alt="image" src="https://github.com/user-attachments/assets/705940e8-69c1-4da2-9c25-495708f09057" />
 
 
 #12. Vertically flipped image displayed.
 
 
-<img width="386" height="506" alt="image" src="https://github.com/user-attachments/assets/5104a539-6fa8-42a1-a513-48db6219223d" />
 
 
 
