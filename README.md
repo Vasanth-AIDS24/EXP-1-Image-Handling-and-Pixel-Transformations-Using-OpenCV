@@ -325,29 +325,29 @@ plt.axis("off")
 
 #1. Original image displayed using OpenCV and Matplotlib.
 
-![alt_text](https://github.com/Vasanth-AIDS24/EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV/blob/main/1.png)
+<img width="342" height="487" alt="image" src="https://github.com/user-attachments/assets/c6b9ffbf-cb53-452c-9e5f-98230c3a8e6c" />
 
 
 
 #2. Image with a line drawn from the top-left to the bottom-right.
 
-![alt_text](https://github.com/Vasanth-AIDS24/EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV/blob/main/image(1)/Screenshot%202026-10-26%20154805.png)
+<img width="345" height="485" alt="image" src="https://github.com/user-attachments/assets/24dc8cbd-72f4-48b5-a3e7-c928594177bb" />
 
 
 #3. Image with a circle .
 
-![alt_text](https://github.com/Vasanth-AIDS24/EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV/blob/main/image(1)/Screenshot%202026-10-26%20160028.png)
+<img width="342" height="492" alt="image" src="https://github.com/user-attachments/assets/b813d7c7-5db8-4d82-bdbc-2da04cf3089d" />
 
 
 #4. Image with a rectangle around its boundary.
 
-![alt_text](https://github.com/Vasanth-AIDS24/EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV/blob/main/image(1)/Screenshot%202026-10-26%20160342.png)
+<img width="343" height="486" alt="image" src="https://github.com/user-attachments/assets/fbb59ee1-9090-494c-bb99-905d5ae82a2f" />
 
 
 #5. Image with the text "OpenCV Drawing".
 
 
-![alt_text](https://github.com/Vasanth-AIDS24/EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV/blob/main/image(1)/Screenshot%202026-10-26%20160406.png)
+<img width="346" height="482" alt="image" src="https://github.com/user-attachments/assets/838248f9-2e29-4aee-a29b-75efc9810e7e" />
 
 
 
@@ -356,58 +356,58 @@ plt.axis("off")
 #HSV conversion
 
 
-![alt_text](https://github.com/Vasanth-AIDS24/EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV/blob/main/image(1)/Screenshot%202026-10-26%20160436.png)
+<img width="343" height="482" alt="image" src="https://github.com/user-attachments/assets/696629d6-2ce8-46da-9292-b84fb6c045d5" />
 
 #grayscale conversion
 
 
-![alt_text](https://github.com/Vasanth-AIDS24/EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV/blob/main/image(1)/Screenshot%202026-10-26%20160500.png)
+<img width="342" height="478" alt="image" src="https://github.com/user-attachments/assets/c6a0169d-361f-45f8-9891-0e4196ef71da" />
 
 #YCrCb conversion
 
 
-![alt_text](https://github.com/Vasanth-AIDS24/EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV/blob/main/image(1)/Screenshot%202026-10-26%20160516.png)
+<img width="345" height="487" alt="image" src="https://github.com/user-attachments/assets/bd2880be-57be-4229-b2aa-d348af573023" />
 
 
 #7. Image converted from HSV back to RGB.
 
 
-![alt_text](https://github.com/Vasanth-AIDS24/EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV/blob/main/image(1)/Screenshot%202026-10-26%20160550.png)
+<img width="340" height="482" alt="image" src="https://github.com/user-attachments/assets/e401b331-3b15-4d27-8e7a-6933f4da67da" />
 
 
 
 #8. Pixel value displayed and a white region added to the image.
 
 
-![alt_text](https://github.com/Vasanth-AIDS24/EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV/blob/main/image(1)/Screenshot%202026-10-26%20160609.png)
+<img width="346" height="496" alt="image" src="https://github.com/user-attachments/assets/aab4c674-e5f9-40d8-85c2-3a7647367b6b" />
 
 
 
 #9. Image resized to half its original dimensions.
 
 
-![alt_text](https://github.com/Vasanth-AIDS24/EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV/blob/main/image(1)/Screenshot%202026-10-26%20160627.png)
+<img width="587" height="488" alt="image" src="https://github.com/user-attachments/assets/ca0718f5-1b36-4985-a939-04b156ed2047" />
 
 
 
 #10. Cropped region of interest displayed.
 
 
-![alt_text](https://github.com/Vasanth-AIDS24/EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV/blob/main/image(1)/Screenshot%202026-10-26%20160646.png)
+<img width="462" height="497" alt="image" src="https://github.com/user-attachments/assets/b51d5762-9ed6-4498-b1d9-81c392ef9451" />
 
 
 
 #11. Horizontally flipped image displayed.
 
 
-![alt_text](https://github.com/Vasanth-AIDS24/EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV/blob/main/image(1)/Screenshot%202026-10-26%20160704.png)
+<img width="345" height="491" alt="image" src="https://github.com/user-attachments/assets/b01cd614-71b3-468c-979c-611c62280590" />
 
 
 
 #12. Vertically flipped image displayed.
 
 
-![alt_text](https://github.com/Vasanth-AIDS24/EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV/blob/main/image(1)/Screenshot%202026-10-26%20160720.png)
+<img width="341" height="490" alt="image" src="https://github.com/user-attachments/assets/272761ae-d575-42cb-9cbf-ee6fdc79d8be" />
 
 
 
